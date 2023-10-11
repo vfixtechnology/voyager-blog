@@ -1,9 +1,23 @@
 ## Laravel Blog with Voyager admin panel
 This open-source project on GitHub is a comprehensive Blogging System built using Laravel, enriched with the powerful Voyager admin panel for seamless content management. It seamlessly blends both the frontend and backend aspects of a blog, making it an ideal choice for bloggers and developers looking for a user-friendly and customizable solution.
 
-## Defautl Login Details:
+## Installation process:
+steps:
+
+1. git clone https://github.com/vfixtechnology/voyager-blog.git
+
+2. open directory with vs code  & open terminal
+
+3. run command: composer update
+
+4. run command: php artisan voyager:install --with-dummy
+
+
+
+## Default Login Details:
 Email: admin@admin.com
 Pass: password
+
 
 ## Key Features:
 
